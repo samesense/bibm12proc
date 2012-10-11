@@ -1,0 +1,248 @@
+CD AUTORUN CREATOR PACKAGE
+
+
+[Pocetak]
+
+
+ã¨èä´ãáðôò„·ãÌú®¼Ïãå­æÍ¿çÈˆ
+
+
+³ë¤µþÜ³“°±é‰
+
+
+[Kraj]
+
+[Osnovna podesavanja]
+Pozadinska slika=
+Boja prozora=16777215
+Podesi velicinu=Ne
+PodesiSirinu=0
+PodesiVisinu=0
+CeoEkran=Ne
+BojaEkrana=
+backscreenslika=
+Backscrpredpos=Ne
+backscreenpicpozicija=Ne
+PozicijaX=0
+PozicijaY=0
+[Osnovni podaci]
+Tasknaslov=
+Logotekst=
+Logotekstboja=-2147483640
+Logoslika=
+Glavninaslov=
+GlavninaslovFont=
+GlnaslovVel=10
+GlnaslovBoja=-2147483640
+GlavniOpisnaslov=
+GlavniOpisnaslovFont=
+GlavniOpisnaslovVel=10
+GlavniOpisnaslovBoja=-2147483640
+GlavniOpisnaslovBold=False
+GlavniOpisnaslovItalic=False
+GlavniOpis=
+GlavniOpisFont=
+GlavniOpisVel=10
+GlavniOpisBoja=-2147483640
+GlavniOpisBold=False
+GlavniOpisItalic=False
+Ikona=
+Font=
+Velicina=10
+Stil=
+Efekti=
+Vertekst=
+Vertfont=
+Vertfontvelicina=10
+Vertfontboja=-2147483640
+Opis providan=0
+[Izvrsne komande]
+Izlaz=Exit
+Exitdesctitle=
+Exitdescription=
+Sounddesctitle=
+Sounddescription=
+Fajl1=\starthere.htm
+Opis1=Start Here
+Parametar1=
+Vrsta1=Open file
+Zatvara1=0
+Fajl2=
+Opis2=
+Parametar2=
+Vrsta2=
+Zatvara2=0
+Fajl3=
+Opis3=
+Parametar3=
+Vrsta3=
+Zatvara3=0
+Fajl4=
+Opis4=
+Parametar4=
+Vrsta4=
+Zatvara4=0
+Fajl5=
+Opis5=
+Parametar5=
+Vrsta5=
+Zatvara5=0
+Fajl6=
+Opis6=
+Parametar6=
+Vrsta6=
+Zatvara6=0
+Boja slova=
+Boja pozadine komandi=
+Boja pozadine=16777215
+Boja pozadine komandi=
+Font=
+Velicina=10
+Add shadow=0
+Boja senke=14284027
+[Opis komandi]
+C1=
+O1=
+C2=
+O2=
+C3=
+O3=
+C4=
+O4=
+C5=
+O5=
+C6=
+O6=
+[Dodatne komande]
+[Menu titles]
+titleMain=Main
+Titleinfo=Info
+titleprog=Program
+Titleaddit=Additional
+[Zvuk]
+Fajl=
+Akcija=0
+Ponovi=1
+Pauza=1
+Komanda=Sound on/off
+Signal=0
+[Uvod]
+Prikazi=0
+ClickThrough=0
+Poruka=
+Font=
+Fontvelicina=10
+Bold=0
+Italic=0
+Underline=0
+Bojateksta=-2147483630
+Slika=
+Opcija=2
+Bojaprozora=8421504
+Vreme=5
+Visina=0
+Sirina=0
+Polozajteksta=
+Polozajslike=
+[Izlaz]
+Prikazi=0
+ClickThroughExit=0
+Tekst=
+Font=
+Fontvelicina=10
+Bojateksta=-2147483630
+Bold=0
+Italic=0
+Underline=0
+Slika=
+Opcija=1
+Bojaprozora=8421504
+Vreme=5
+Visina=0
+Sirina=0
+Polozajteksta=
+Polozajslike=
+Besplatan=1}4084234234709568{23498
+[Efekti]
+Splash fade in=False
+Splash fade out=False
+Main fade in=False
+Main fade out=False
+Exit fade in=False
+Exit fade out=False
+esplashenter=0
+emainenter=0
+eexitenter=0
+esplashleave=0
+emainleave=0
+eexitleave=0
+[Poruke]
+Vrsta=0
+Naslov=
+Tekst=
+Dugme1=
+Komanda1=0
+Dugme2=
+Komanda2=0
+Meta1=
+Meta2=
+Par1=
+Par2=
+[Broj]
+Broj=009221872634502287266152
+[Expiration]
+Enabled=False
+Godina=
+Mesec=
+Dan=
+Naslov=
+Poruka=
+Vrsta=
+Dugme1Naslov=
+Dugme2Naslov=
+Dugme1Komanda=
+Dugme2Komanda=
+IsticanjeDugme1Meta=
+IsticanjeDugme2Meta=
+IsticanjeDugme1Param=
+IsticanjeDugme2Param=
+[Precice]
+[Napredni sabloni]
+AutorunWidth=0
+AutorunHeight=0
+AutorunFixedSize=False
+LogoTekstTop=0
+LogoTekstLeft=0
+MainAutorunTekstTop=0
+MainAutorunTekstLeft=0
+SlikaLogoX=0
+SlikaLogoY=0
+GlavniOpisNaslovX=0
+GlavniOpisNaslovY=0
+GlavniOpisNaslovWidth=0
+GlavniOpisX=0
+GlavniOpisY=0
+GlavniOpisWidth=0
+GlavniOpisHeight=0
+TekstUnderline(0)=False
+TekstBackgroundStyle(0)=0
+TekstBackgroundColor(0)=
+Poravnanje(0)=0
+TekstUnderline(1)=False
+TekstBackgroundStyle(1)=0
+TekstBackgroundColor(1)=
+Poravnanje(1)=0
+TekstUnderline(2)=False
+TekstBackgroundStyle(2)=0
+TekstBackgroundColor(2)=
+Poravnanje(2)=0
+TekstUnderline(3)=False
+TekstBackgroundStyle(3)=0
+TekstBackgroundColor(3)=
+Poravnanje(3)=0
+WindowMaximized=False
+[ObjTekst]
+backpicOdnosx=
+backpicOdnosy=
+LogopicOdnosx=
+LogopicOdnosy=
